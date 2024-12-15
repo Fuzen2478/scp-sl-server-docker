@@ -10,3 +10,39 @@
 2024-12-15 05:22:12.228Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player Fuzen (76561198165685631@steam) to Tutorial.
 2024-12-15 05:30:56.972Z | Kill                | Class change   | Fuzen (76561198165685631@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
 2024-12-15 05:30:56.981Z | Connection update   | Networking     | Fuzen (76561198165685631@steam) disconnected from IP address 172.20.0.1. Last class: Spectator.
+2024-12-15 08:36:00.572Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:39492 rejected due to exceeding the rate limit.
+2024-12-15 08:36:01.223Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:39492 rejected due to exceeding the rate limit.
+2024-12-15 08:36:01.872Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:39492 rejected due to exceeding the rate limit.
+2024-12-15 08:36:15.755Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:35709 rejected due to exceeding the rate limit.
+2024-12-15 08:36:16.406Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:35709 rejected due to exceeding the rate limit.
+2024-12-15 08:37:27.426Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:52165 rejected due to exceeding the rate limit.
+2024-12-15 08:37:28.093Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:52165 rejected due to exceeding the rate limit.
+2024-12-15 08:37:31.558Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:36844 rejected due to exceeding the rate limit.
+2024-12-15 08:37:32.208Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:36844 rejected due to exceeding the rate limit.
+2024-12-15 08:40:00.273Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:53278 rejected due to exceeding the rate limit.
+2024-12-15 08:40:01.589Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:53278 rejected due to exceeding the rate limit.
+2024-12-15 08:44:00.462Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:42599 rejected due to exceeding the rate limit.
+2024-12-15 08:44:01.129Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:42599 rejected due to exceeding the rate limit.
+2024-12-15 08:44:01.779Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:42599 rejected due to exceeding the rate limit.
+2024-12-15 08:48:36.381Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:46842 rejected due to exceeding the rate limit.
+2024-12-15 08:48:37.681Z | Rate Limit          | Networking     | Incoming connection from endpoint 172.20.0.1:46842 rejected due to exceeding the rate limit.
+2024-12-15 08:55:13.405Z | Connection update   | Networking     | 76561198165685631@steam preauthenticated from endpoint 172.20.0.1:35029.
+2024-12-15 08:55:45.183Z | Connection update   | Networking     | 76561198165685631@steam authenticated from endpoint 172.20.0.1:35029. Player ID assigned: 3. Auth token serial number: 5QITiVgO-xSBBpzP9.
+2024-12-15 08:55:45.184Z | Connection update   | Networking     | Nickname of 76561198165685631@steam is now Fuzen.
+2024-12-15 08:55:45.184Z | Connection update   | Permissions    | Fuzen (76561198165685631@steam) has been assigned to group ADMIN.
+2024-12-15 08:56:32.792Z | Connection update   | Networking     | 76561198398691869@steam preauthenticated from endpoint 172.20.0.1:36444.
+2024-12-15 08:56:49.221Z | Connection update   | Networking     | 76561198398691869@steam authenticated from endpoint 172.20.0.1:36444. Player ID assigned: 4. Auth token serial number: 4B0u2HpW-6RlYiOeU.
+2024-12-15 08:56:49.222Z | Connection update   | Networking     | Nickname of 76561198398691869@steam is now 한국 WHGDKDY.
+2024-12-15 08:56:49.222Z | Connection update   | Permissions    | 한국 WHGDKDY (76561198398691869@steam) has been assigned to group SERVER OWNER.
+2024-12-15 08:57:02.414Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player 한국 WHGDKDY (76561198398691869@steam) to Scp3114.
+2024-12-15 08:57:08.358Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player Fuzen (76561198165685631@steam) to NtfCaptain.
+2024-12-15 08:57:09.599Z | Game Event          | Logger         | Round has been started.
+2024-12-15 08:57:21.921Z | Remote Admin        | Administrative | 한국 WHGDKDY (76561198398691869@steam) brought player Fuzen (76561198165685631@steam).
+2024-12-15 08:58:15.796Z | Game Event          | Class change   | is now impersonating 한국 WHGDKDY, playing as Scientist.
+2024-12-15 08:58:23.784Z | Game Event          | Class change   | is no longer disguised.
+2024-12-15 08:58:30.417Z | Kill                | Class change   | Fuzen (76561198165685631@steam), playing as Nine-Tailed Fox Captain, has been killed by 한국 WHGDKDY (76561198398691869@steam) playing as: SCP-3114. Specific death reason: Slap.
+2024-12-15 08:58:32.091Z | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-12-15 08:58:34.747Z | Game Event          | Class change   | is no longer disguised.
+2024-12-15 08:58:43.597Z | Game Event          | Class change   | is no longer disguised.
+2024-12-15 08:58:43.685Z | Connection update   | Networking     | 한국 WHGDKDY (76561198398691869@steam) disconnected from IP address 172.20.0.1. Last class: Scp3114.
+2024-12-15 08:58:43.685Z | Connection update   | Networking     | Fuzen (76561198165685631@steam) disconnected from IP address 172.20.0.1. Last class: Spectator.

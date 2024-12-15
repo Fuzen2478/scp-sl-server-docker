@@ -1,0 +1,16 @@
+2024-12-15 08:58:49.306Z | Internal            | Logger         | Started logging.
+2024-12-15 08:58:49.306Z | Internal            | Logger         | Game version: 13.5.1.
+2024-12-15 08:58:49.306Z | Internal            | Logger         | Build type: Release.
+2024-12-15 08:58:49.306Z | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-12-15 08:58:49.306Z | Internal            | Logger         | Headless: True.
+2024-12-15 08:58:54.205Z | Connection update   | Networking     | 76561198398691869@steam preauthenticated from endpoint 172.20.0.1:39316.
+2024-12-15 08:59:03.812Z | Connection update   | Networking     | 76561198398691869@steam authenticated from endpoint 172.20.0.1:39316. Player ID assigned: 6. Auth token serial number: 4B0u2HpW-/5icN4xA.
+2024-12-15 08:59:03.812Z | Connection update   | Networking     | Nickname of 76561198398691869@steam is now 한국 WHGDKDY.
+2024-12-15 08:59:03.812Z | Connection update   | Permissions    | 한국 WHGDKDY (76561198398691869@steam) has been assigned to group SERVER OWNER.
+2024-12-15 08:59:13.692Z | Remote Admin        | Class change   | 한국 WHGDKDY (76561198398691869@steam) changed role of player 한국 WHGDKDY (76561198398691869@steam) to Scp939.
+2024-12-15 08:59:14.111Z | Remote Admin        | Class change   | 한국 WHGDKDY (76561198398691869@steam) changed role of player 한국 WHGDKDY (76561198398691869@steam) to Scp939.
+2024-12-15 08:59:41.720Z | Kill                | Class change   | 한국 WHGDKDY (76561198398691869@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-12-15 09:00:04.135Z | Remote Admin        | Class change   | 한국 WHGDKDY (76561198398691869@steam) changed role of player 한국 WHGDKDY (76561198398691869@steam) to Scp939.
+2024-12-15 09:00:04.536Z | Remote Admin        | Class change   | 한국 WHGDKDY (76561198398691869@steam) changed role of player 한국 WHGDKDY (76561198398691869@steam) to Scp939.
+2024-12-15 09:00:31.167Z | Kill                | Class change   | 한국 WHGDKDY (76561198398691869@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-12-15 09:00:58.975Z | Connection update   | Networking     | 한국 WHGDKDY (76561198398691869@steam) disconnected from IP address 172.20.0.1. Last class: Spectator.
