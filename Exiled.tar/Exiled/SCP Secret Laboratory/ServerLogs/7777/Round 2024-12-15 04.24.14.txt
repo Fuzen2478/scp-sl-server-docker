@@ -1,0 +1,9 @@
+2024-12-15 04:24:14.800Z | Internal            | Logger         | Started logging.
+2024-12-15 04:24:14.801Z | Internal            | Logger         | Game version: 13.5.1.
+2024-12-15 04:24:14.801Z | Internal            | Logger         | Build type: Release.
+2024-12-15 04:24:14.801Z | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-12-15 04:24:14.801Z | Internal            | Logger         | Headless: True.
+2024-12-15 04:24:18.966Z | Connection update   | Networking     | 76561198165685631@steam preauthenticated from endpoint 172.20.0.1:37314.
+2024-12-15 04:24:27.434Z | Connection update   | Networking     | 76561198165685631@steam authenticated from endpoint 172.20.0.1:37314. Player ID assigned: 2. Auth token serial number: 8CTcDM5f-pLnLhTNG.
+2024-12-15 04:24:27.437Z | Connection update   | Networking     | Nickname of 76561198165685631@steam is now Fuzen.
+2024-12-15 04:25:55.846Z | Connection update   | Networking     | Fuzen (76561198165685631@steam) disconnected from IP address 172.20.0.1. Last class: None.

@@ -1,0 +1,22 @@
+# Determines, if the plugin should be enabled or not
+is_enabled: true
+debug: false
+# Spawn info shown on spawn
+broadcast_message: '당신은 벰의손 입니다 당신은 누구에 편도 아닌 공존은 추구하는 존재들 입니다. <color=#EC320C>SCP</color>, <color=#7EED28>혼돈의 반란</color>, <color=#1875E5>구미호 부대</color>를 무찌르십시오'
+# Duration of the spawn info message
+broadcast_time: 6
+# List of item that tutorial should spawn with
+items:
+- KeycardContainmentEngineer
+- GrenadeHE
+- SCP244a
+- SCP1576
+- SCP2176
+- ArmorHeavy
+- GunE11SR
+- SCP500
+# Types of ammo and amount to give
+ammo:
+  Nato556: 180
+# Amount of HP gain on SCP500 usage
+health_gain: 140

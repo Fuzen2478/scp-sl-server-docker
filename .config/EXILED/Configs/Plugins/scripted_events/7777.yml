@@ -1,0 +1,36 @@
+# Whether or not to enable the Scripted Events plugin.
+is_enabled: true
+# Whether or not to enable Scripted Events debug logs.
+debug: false
+# Whether or not to enable Scripted Events informational logs.
+enable_logs: true
+# Disables ALL logs from Scripted Events, including warnings and errors. Overrides other logging settings. Not recommended unless you know what you're doing.
+disable_all_logs: false
+# If a script encounters an error, broadcast a notice to the person who ran the command, informing of the error. The broadcast ONLY shows to the command executor.
+broadcast_issues: true
+# If set to true, players with overwatch enabled will not be affected by any commands related to players.
+ignore_overwatch: true
+# The name of the folder which will store variables long term. This can be a path, but it will start from the ScriptedEvents directory, not root.
+storage_foldername: 'VariableStorage'
+# The string to use for countdowns.
+countdown_string: '<size=26><color=#5EB3FF><b>{TEXT}</b></color></size>\n{TIME}'
+# The amount of times the WAITUNTIL action will update per second. Can cause performace issues if set too high.
+wait_until_frequency: 2
+# Define a custom set of permissions used to run a certain script. The provided permission will be added AFTER script.execute (eg. script.execute.examplepermission for the provided example).
+required_permissions:
+  ExampleScriptNameHere: examplepermission
+# [ADVANCED] Define a custom command to run a script when it is executed.
+commands:
+- name: 'example'
+  enabled: false
+  description: 'An example custom command!'
+  permission: 'example'
+  type: PlayerConsole
+  default_response: true
+  cooldown: -1
+  player_cooldown: -1
+  run:
+  - 'MyScript1'
+  - 'MyScript2'
+# Whether or not to enable credit ranks for the Scripted Events contributors. Set to 'false' if you encounter issues with things like XP ranks.
+enable_credits: true

@@ -1,0 +1,15 @@
+services:
+  scpsl:
+    container_name: scp-sl-server
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: scpsl
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    ports:
+      - 7777:7777/udp
+    volumes:
+      - ./config:/config
+      - .config:/home/scpsl/.config

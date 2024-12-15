@@ -1,0 +1,22 @@
+# Determines, if the plugin should be enabled or not
+is_enabled: true
+debug: false
+# Spawn info shown on spawn
+broadcast_message: 'You are the Serpent''s Hand. You are not on anyone''s side but are beings that pursue coexistence. Defeat the <color=#EC320C>SCP</color>, the <color=#7EED28>Chaos</color>, and the <color=#1875E5>Nine-Tailed Fox Unit</color>'
+# Duration of the spawn info message
+broadcast_time: 6
+# List of item that tutorial should spawn with
+items:
+- KeycardContainmentEngineer
+- GrenadeHE
+- SCP244a
+- SCP1576
+- SCP2176
+- ArmorHeavy
+- GunE11SR
+- SCP500
+# Types of ammo and amount to give
+ammo:
+  Nato556: 180
+# Amount of HP gain on SCP500 usage
+health_gain: 140

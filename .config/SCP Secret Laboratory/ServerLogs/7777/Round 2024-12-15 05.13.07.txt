@@ -1,0 +1,14 @@
+2024-12-15 05:13:07.694Z | Internal            | Logger         | Started logging.
+2024-12-15 05:13:07.694Z | Internal            | Logger         | Game version: 13.5.1.
+2024-12-15 05:13:07.695Z | Internal            | Logger         | Build type: Release.
+2024-12-15 05:13:07.695Z | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-12-15 05:13:07.695Z | Internal            | Logger         | Headless: True.
+2024-12-15 05:14:03.299Z | Connection update   | Networking     | 76561198165685631@steam preauthenticated from endpoint 172.20.0.1:36446.
+2024-12-15 05:14:12.086Z | Connection update   | Networking     | 76561198165685631@steam authenticated from endpoint 172.20.0.1:36446. Player ID assigned: 2. Auth token serial number: wxf1m793-6bsrd41n.
+2024-12-15 05:14:12.089Z | Connection update   | Networking     | Nickname of 76561198165685631@steam is now Fuzen.
+2024-12-15 05:14:12.096Z | Connection update   | Permissions    | Fuzen (76561198165685631@steam) has been assigned to group ADMIN.
+2024-12-15 05:14:26.643Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player Fuzen (76561198165685631@steam) to Tutorial.
+2024-12-15 05:14:50.516Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player Fuzen (76561198165685631@steam) to Scp939.
+2024-12-15 05:15:27.542Z | Remote Admin        | Class change   | Fuzen (76561198165685631@steam) changed role of player Fuzen (76561198165685631@steam) to Tutorial.
+2024-12-15 05:20:41.927Z | Kill                | Class change   | Fuzen (76561198165685631@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-12-15 05:20:41.936Z | Connection update   | Networking     | Fuzen (76561198165685631@steam) disconnected from IP address 172.20.0.1. Last class: Spectator.

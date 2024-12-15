@@ -1,0 +1,14 @@
+is_enabled: true
+debug: false
+# SCP-096 damage multiplier
+multiplier096: 100
+# SCP-049 damage multiplier
+multiplier049: 100
+# DMG multiplier when a SCP gets hit by a grenade
+grenade_multiplier: 5
+# SCP-106 health
+health106: 5000
+# Max health and health for SCP-939
+health939: 2400
+# After what time alpha warhead should start. TIME IN SECONDS!!!
+warhead_timer: 1200
